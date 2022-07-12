@@ -84,8 +84,8 @@ function createTimeBlock(hour) {
     buttonCol.attr('class', 'button-Col col-2');
 
     const saveButton = $('<button>');
-    saveButton.attr('class', 'btn btn-primary save-button');
-    saveButton.text('Save');
+    saveButton.attr('class', 'btn btn-primary save-button fa fa-save');
+    //saveButton.text('Save');
     buttonCol.append(saveButton);
     
 //put the columns into the row
