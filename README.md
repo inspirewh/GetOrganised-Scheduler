@@ -13,7 +13,7 @@ SO THAT I can manage my time effectively
 
 ## Screenshot of Webpage 
 
-><img src="ReadMeImage\Screenshot 2022-07-12 123944.png" alt="Screenshot of webpage">
+><img src="Screenshot 2022-07-12 123944.png" alt="Screenshot of webpage">
 
 ## Installation
 
